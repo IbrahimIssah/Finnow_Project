@@ -1,170 +1,65 @@
 {
-    "data": [
-      {
-        "id": 1,
-        "title": "Lenovo LP40 Bluetooth 5.0",
-        "url": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/306502/1.jpg?8006",
-        "price": 45,
-        "quantity": 1
-      },
-      {
-        "id": 2,
-        "title": "Nokia 6.1 Plus",
-        "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-        "price": 350,
-        "quantity": 1
-      },
-      {
-        "id": 3,
-        "title": "Beefeater London Pink",
-        "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
-        "price": 45,
-        "quantity": 1
-      },
-      {
-        "id": 4,
-        "title": "X Tigi Hope 10 Pro 4G Phablet ",
-        "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/978892/1.jpg?9814",
-        "price": 45,
-        "quantity": 1
-      },
-      {
-        "id": 5,
-        "title": "Amazon Fire HD 8 Kids",
-        "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/2256/1.jpg?7586",
-        "price": 45,
-        "quantity": 1
-      }
-    ],
-    "orders": [
-      [
-        {
-          "id": 2,
-          "title": "Nokia 6.1 Plus",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-          "price": 350,
-          "quantity": 3
-        },
+  "data": [
+    {
+      "id": 1,
+      "title": "Lenovo LP40 Bluetooth 5.0",
+      "url": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/306502/1.jpg?8006",
+      "price": 45,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Nokia 6.1 Plus",
+      "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
+      "price": 350,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Beefeater London Pink",
+      "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
+      "price": 45,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "X Tigi Hope 10 Pro 4G Phablet ",
+      "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/978892/1.jpg?9814",
+      "price": 45,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Amazon Fire HD 8 Kids",
+      "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/2256/1.jpg?7586",
+      "price": 45,
+      "quantity": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "order": [
         {
           "id": 1,
           "title": "Lenovo LP40 Bluetooth 5.0",
           "url": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/306502/1.jpg?8006",
-          "price": 45,
-          "quantity": 4
-        }
-      ],
-      [
-        {
-          "id": 2,
-          "title": "Nokia 6.1 Plus",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-          "price": 350,
-          "quantity": 1
-        }
-      ],
-      [
-        {
-          "id": 2,
-          "title": "Nokia 6.1 Plus",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-          "price": 350,
-          "quantity": 1
-        }
-      ],
-      [
-        {
-          "id": 5,
-          "title": "Amazon Fire HD 8 Kids",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/2256/1.jpg?7586",
-          "price": 45,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 2,
-          "title": "Nokia 6.1 Plus",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-          "price": 350,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 3,
-          "title": "Beefeater London Pink",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
-          "price": 45,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 3,
-          "title": "Beefeater London Pink",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
-          "price": 45,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 4,
-          "title": "X Tigi Hope 10 Pro 4G Phablet ",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/978892/1.jpg?9814",
-          "price": 45,
-          "quantity": 3
-        },
-        {
-          "id": 3,
-          "title": "Beefeater London Pink",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
-          "price": 45,
-          "quantity": 4
-        },
-        {
-          "id": 1,
-          "title": "Lenovo LP40 Bluetooth 5.0",
-          "url": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/306502/1.jpg?8006",
-          "price": 45,
-          "quantity": 5
-        }
-      ],
-      [
-        {
-          "id": 2,
-          "title": "Nokia 6.1 Plus",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/868281/1.jpg?6453",
-          "price": 350,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 3,
-          "title": "Beefeater London Pink",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/36/834631/1.jpg?4751",
-          "price": 45,
-          "quantity": 3
-        }
-      ],
-      [
-        {
-          "id": 5,
-          "title": "Amazon Fire HD 8 Kids",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/2256/1.jpg?7586",
-          "price": 45,
-          "quantity": 4
-        }
-      ],
-      [
-        {
-          "id": 4,
-          "title": "X Tigi Hope 10 Pro 4G Phablet ",
-          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/978892/1.jpg?9814",
           "price": 45,
           "quantity": 2
         }
       ]
-    ]
-  }
+    },
+    {
+      "id": 2,
+      "order": [
+        {
+          "id": 4,
+          "title": "X Tigi Hope 10 Pro 4G Phablet ",
+          "url": "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/978892/1.jpg?9814",
+          "price": 45,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
